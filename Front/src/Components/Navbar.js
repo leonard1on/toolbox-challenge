@@ -12,7 +12,6 @@ const NavBar = (props) => {
 
   const sendWord = () => {
     axios.get("http://localhost:8080/iecho?text=" + word).then((response) => {
-      console.log(response);
       setList((prev) => [...prev, response.data.text]);
       setWord("");
     });
