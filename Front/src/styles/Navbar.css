@@ -1,0 +1,10 @@
+.navbar {
+  background-color: darkred;
+  justify-content: center !important;
+}
+
+.button {
+  margin-left: 0.5rem;
+  width: 8vw;
+  background-color: mediumblue !important;
+}
