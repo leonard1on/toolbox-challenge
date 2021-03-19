@@ -19,7 +19,7 @@ Este proyecto fue hecho como parte de la aplicación para Toolbox.
 > npm run start
 
 #Terminal 2
-> cd Api
+> cd Front
 > npm run start
 ```
 
