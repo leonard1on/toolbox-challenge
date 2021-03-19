@@ -19,7 +19,6 @@ Este proyecto fue hecho como parte de la aplicación para Toolbox.
 > npm run start
 
 #Terminal 2
-```bash
 > cd Api
 > npm run start
 ```
